@@ -1,2 +1,2 @@
-# test
-test
+# Omnipay-psp-php
+Omnipay
