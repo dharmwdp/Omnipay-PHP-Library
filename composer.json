@@ -1,5 +1,5 @@
 {
-   "name":"omni-psp/omni-pay",
+   "name":"omnipay-php-library/omnipay",
    "description":"Omnipay PHP Client Library",
    "keywords":[
       "omnipay",
@@ -27,7 +27,6 @@
    "license":"MIT",
    "require": {
         "php": ">=5.3.0",
-        "rmccue/requests": "v1.8.0",
         "ext-json": "*"
     },
     "require-dev": {
@@ -36,8 +35,7 @@
     },
    "autoload":{
       "psr-4":{
-         "Omnipay\\Api\\":"src/",
-         "Omnipay\\Tests\\":"tests/"
+         "Omnipay\\Api\\":"omnipay-sdk/src/",
       }
    },
    "prefer-stable": true
