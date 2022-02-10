@@ -1,5 +1,5 @@
 {
-   "name":"omnipay/omnipay-php-library",
+   "name":"omnipay-psp/omnipay-php-library",
    "description":"Omnipay PHP Client Library",
    "keywords":[
       "omnipay",
