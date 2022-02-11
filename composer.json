@@ -35,7 +35,7 @@
     },
    "autoload":{
       "psr-4":{
-         "Omnipay\\Api\\":"omnipay-sdk/src/"
+         "Omnipay\\Api\\":"src/"
       }
    },
    "prefer-stable": true
