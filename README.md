@@ -6,13 +6,8 @@
 
 ## Installation
 
--   If your project using composer, run the below command
 
-```
-composer require omni-psp/omni-pay
-```
-
-- If you are not using composer, download the latest release from [the releases section](https://github.com/dharmwdp/omnipay-php/releases).
+- download the latest release from [the releases section](https://github.com/dharmwdp/omnipay-php/releases).
     **You should download the `omnipay-php.zip` file**.
     After that, include `Omnipay.php` in your application and you can use the API as usual.
     
